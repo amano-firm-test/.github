@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-## こちらはpublic用です。
-private用を見る場合は右側のプルダウンからprivateに変更して下さい。
++ [AMANO](https://www.amano.co.jp/en/)
 
 
 <!--
