@@ -1,4 +1,4 @@
-## Hi there 👋
+![amanoLogo](https://github.com/user-attachments/assets/0057b8b4-c829-4e30-89ef-35e6b0fbebcb)
 
 + [Amano Corporation](https://www.amano.co.jp/en/)
 
