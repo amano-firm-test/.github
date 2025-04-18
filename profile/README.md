@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-+ [AMANO](https://www.amano.co.jp/en/)
++ [AMANO](https://www.amano.co.jp/en/)　Co., Ltd
 
 
 <!--
